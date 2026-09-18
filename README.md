@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Marco Spina</h1>
-<h3 align="center">I'm currently studying to become a software engineer</h3>
+<h3 align="center">I'm currently studying Applied Digital Life Sciences at ZHAW</h3>
 <img align="right" alt="Coding" width="400" src="https://www.123code.org/images/fields/GIF/coding.gif">
 
 - 📝 I’m currently working on: **My Website**
 
-- 📚 I’m currently learning: **Implement mobile application**
+- 📚 I’m currently learning: **Applied Digital Life Sciences**
 
 - ✉︎ Contact me per mail **spina.marco06@gmail.com**
 
